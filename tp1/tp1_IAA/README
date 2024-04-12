@@ -1,0 +1,13 @@
+compilação do programa: g++ main.cpp
+
+exemplo de execução do programa: ./a.out mapa_teste.map UCS 0 1 1 1 
+
+bibliotecas usadas :
+#include <iostream>
+#include <list>
+#include <queue>
+#include <fstream>
+#include <string>
+#include <cstdio>
+#include <algorithm>
+#include <vector>
